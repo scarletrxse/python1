@@ -1,4 +1,6 @@
-# First project using python.  Focuses on utilizing basic Python syntax.  From Codecademy.  Tracks a customer's purchases and gives a reciept.
+# First project using python.
+
+# Focuses on utilizing basic Python syntax.  From Codecademy.  Tracks a customer's purchases and gives a reciept.
 
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white. "
 
